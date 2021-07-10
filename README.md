@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @archanabh124
+- 👋 Hi, I’m Archana Behera.
 - 👀 I’m interested in web development as well as real world problem solving project.
 - 🌱 I’m currently learning MCA from Odisha
 - 💞️ I’m looking to collaborate on many open source project
